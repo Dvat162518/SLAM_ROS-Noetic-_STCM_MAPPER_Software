@@ -124,12 +124,5 @@ python src/STCM_Viewer_Final.py
 2. Parser processes the decoded data for visualization
 3. Viewer loads processed map for 3D visualization and editing
 
-## Contributing
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
