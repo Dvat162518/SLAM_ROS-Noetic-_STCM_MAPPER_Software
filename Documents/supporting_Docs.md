@@ -81,9 +81,6 @@
 - [Navigation2](https://navigation.ros.org/)
 - [ROS Industrial Repositories](https://github.com/ros-industrial)
 
-## Contributing
-Refer to our [CONTRIBUTING.md](./CONTRIBUTING.md) guide for details on how to contribute to this project.
-
 ## Support
 For support queries:
 1. Check the documentation above
